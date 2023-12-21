@@ -24,6 +24,3 @@ Welcome to the Fullstack Invoice Management System Dashboard repository! This pr
 ![screenshot1](https://github.com/yoseflakew25/invoice-management-system/blob/main/client/public/9.png)
 ![screenshot1](https://github.com/yoseflakew25/invoice-management-system/blob/main/client/public/10.png)
 
-## Contributing
-
-Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request. Make sure to follow the established code style and guidelines.
